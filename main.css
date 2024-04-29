@@ -119,7 +119,7 @@ nav {
 
 .profile-pic {
   height: auto;
-  width: auto;
+  width: 100%;
   border-radius: 50%;
   display: circle;
   margin: 1.5rem 0;
