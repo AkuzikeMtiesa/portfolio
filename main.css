@@ -37,7 +37,7 @@ p {
 }
 
 img {
-  width: 100%;
+  width: auto;
   max-width: auto;
   height: auto;
 }
@@ -121,7 +121,7 @@ nav {
   height: auto;
   width: 100%;
   border-radius: 50%;
-  display: circle;
+  display: block;
   margin: 1.5rem 0;
 }
 
